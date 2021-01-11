@@ -4,9 +4,6 @@
       <div class="logo-wrapper">
         <div class="logo">
           <img :src="logo" alt="logo"> Form Generator
-          <a class="github" href="https://github.com/JakHuang/form-generator" target="_blank">
-            <img src="https://github.githubassets.com/pinned-octocat.svg" alt>
-          </a>
         </div>
       </div>
       <el-scrollbar class="left-scrollbar">
